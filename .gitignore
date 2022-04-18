@@ -1,2 +1,4 @@
 *.log
 !pro.log
+node_packages/
+text.txt
